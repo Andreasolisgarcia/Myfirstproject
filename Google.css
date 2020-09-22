@@ -1,0 +1,10 @@
+.nav
+{
+    text-align: right;
+    color: red;
+}
+.main
+{
+    align-content: space-between; 
+    flex-direction: column;
+}
